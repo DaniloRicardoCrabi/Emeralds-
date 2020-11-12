@@ -1,7 +1,7 @@
 from sklearn.cluster import KMeans
 import pandas as pd
 
-data = pd.read_csv("emeraldstestcluster.csv")
+data = pd.read_csv("featuresEmeralds.csv")
 norm = (data - data.mean())/data.std()
 data = norm
 
