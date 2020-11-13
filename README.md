@@ -7,3 +7,5 @@
 - DatasetFeatures
 
 - Results
+
+![alt text](https://github.com/DaniloRicardoCrabi/Emeralds-/tree/master/Results/ExtremelyRandomizedTrees.png?raw=true)
