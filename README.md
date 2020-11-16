@@ -2,11 +2,11 @@
 
 - Algorithms
 
-  - Supervised
+  - Supervised.py
     - RandomForestClassifier
     - ExtraTreesClassifier
     - MLPClassifier
-  - Unsupervised
+  - Unsupervised.py
     - Kmeans
 
 - Images
