@@ -2,6 +2,13 @@
 
 - Algorithms
 
+  - Supervised
+    - RandomForestClassifier
+    - ExtraTreesClassifier
+    - MLPClassifier
+  - Unsupervised
+    - Kmeans
+
 - Images
 
 - DatasetFeatures
