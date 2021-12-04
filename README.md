@@ -1,5 +1,8 @@
 # Title : Machine learning applied to emerald gemstone grading: framework proposal and creation of a public dataset.
 
+- Publication 
+  - https://link.springer.com/article/10.1007/s10044-021-01041-4
+
 - Algorithms
 
   - Supervised.py
